@@ -37,4 +37,4 @@ Settings Explained,
 10,11. widthThreshold/heightThreshold - these will be useful when setting-8 is enabled, and will be used to filter annotations based on the 
 threshold values (WIP)
 
-Thank you.
+:)
