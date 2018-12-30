@@ -18,9 +18,9 @@ Most of the work is configured via the App.config as seen below,
     <add key="imageLocation" value="D:\xyz\sample_data\sample_data\foods\train\Images"/>
     <add key="annotationsBackup" value="D:\xyz\sample_data\sample_data\foods\train\AnnotationsBackup"/>
     <add key="useImageDimension" value="false"/>
-    <add key="useFileSize" value="true"/> wip
-    <add key="widthThreshold" value=""/> wip
-    <add key="heightThreshold" value=""/> wip
+    <add key="useFileSize" value="true"/>
+    <add key="widthThreshold" value=""/>
+    <add key="heightThreshold" value=""/>
   </appSettings>
   
 Settings Explained,
